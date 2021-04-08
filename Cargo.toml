@@ -1,7 +1,7 @@
 [package]
 name = "code_kata"
 version = "0.1.0"
-authors = ["Judit Ördög-Andrási <knifeofdreams86@gmail.com>", "Stanislav Baiduzhyi <baiduzhyi.devel@gmail.com>"]
+authors = ["Judit Andrási <knifeofdreams86@gmail.com>", "Stanislav Baiduzhyi <stas.baiduzhyi.dev@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
